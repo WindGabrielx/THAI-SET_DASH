@@ -1,6 +1,8 @@
 # ThaiSET Dashboard: Stock Price & Volume Visualization
   An interactive dashboard for visualizing historical stock data of selected Thai stocks (e.g., PTT.BK, CPALL.BK, SCB.BK,). Built using Dash, Plotly, and Yahoo Finance, this project provides a clear visual of price trends and trading volume with commonly used technical indicators. (You can add more Thai stocks if needed)
 
+#
+
 ### 🔧 Features
 - Select multiple Thai stock tickers
 
@@ -37,3 +39,13 @@ It was originally an exercise task assigned by my senior at our company, giving 
 You can easily extend this app with more indicators, trading signals, or real-time alerts.
 
 > 📘 This project also marks my first hands-on experience with Plotly Dash — a great learning journey into building interactive data apps with Python.
+
+#
+
+![Image](https://github.com/user-attachments/assets/95689c38-4017-4e33-98ed-330ec1afff9d)
+
+
+
+![Image](https://github.com/user-attachments/assets/1726aebf-9e6b-476e-9310-adabeabf92ea)
+
+
