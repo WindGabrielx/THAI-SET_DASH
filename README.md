@@ -1,5 +1,5 @@
 # ThaiSET Dashboard: Stock Price & Volume Visualization
-  An interactive dashboard for visualizing historical stock data of selected Thai stocks (e.g., PTT.BK, CPALL.BK, SCB.BK). Built using Dash, Plotly, and Yahoo Finance, this project provides a clear visual of price trends and trading volume with commonly used technical indicators.
+  An interactive dashboard for visualizing historical stock data of selected Thai stocks (e.g., PTT.BK, CPALL.BK, SCB.BK,). Built using Dash, Plotly, and Yahoo Finance, this project provides a clear visual of price trends and trading volume with commonly used technical indicators. (You can add more Thai stocks if needed)
 
 ### 🔧 Features
 - Select multiple Thai stock tickers
